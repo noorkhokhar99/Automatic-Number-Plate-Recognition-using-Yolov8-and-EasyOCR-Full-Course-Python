@@ -27,11 +27,11 @@ pip install -r requirements.txt
  
 `python test.py`
 
-`python predict.py model=yolov8l.pt source="test3.mp4" show=True
+`python predict.py model=yolov8l.pt source="demo.mp4" show=True
 `
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/YOLOv8-COMPLETE-Tutorial-Object-Detection-Segmentation-Classification/blob/main/figure2.png">
+<img src="https://github.com/noorkhokhar99/Automatic-Number-Plate-Recognition-using-Yolov8-and-EasyOCR-Full-Course-Python/blob/main/Automatic%20Number%20Plate%20Recognition%20using%20Yolov8%20and%20EasyOCR%20Full%20Course%20%20Python.png">
 </p>
 
 
