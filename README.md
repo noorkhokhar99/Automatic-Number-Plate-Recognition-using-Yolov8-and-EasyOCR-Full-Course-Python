@@ -42,3 +42,9 @@ pip install -r requirements.txt
 ### Inference on a video:
 https://www.youtube.com/watch?v=NWnoi4_dWNg
 
+
+
+
+
+Download weight: https://drive.google.com/file/d/1WoWDuMFxC7WvfFFvL-zTgQWj-1oM-Y5e/view?usp=share_link
+
