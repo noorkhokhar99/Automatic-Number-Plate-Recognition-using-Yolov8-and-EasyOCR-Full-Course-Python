@@ -46,5 +46,5 @@ https://www.youtube.com/watch?v=NWnoi4_dWNg
 
 
 
-Download weight: https://drive.google.com/file/d/1WoWDuMFxC7WvfFFvL-zTgQWj-1oM-Y5e/view?usp=share_link
+Download weight: https://drive.google.com/file/d/1Q-F5l7N3RvCnHEfbN3GQr81zgHCJYn9w/view?usp=drive_link
 
